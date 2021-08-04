@@ -1,8 +1,4 @@
-### Olá! Me chamo Bruno Vitor
-
-
-- 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando JavaScript, HTML5, CSS3, C e Java
+### Olá, seja bem-vindo!!
 
  <div>
   <a href="https://github.com/brunovitorr">
